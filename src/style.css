@@ -1,0 +1,27 @@
+body {
+    background-color: #f1fffa;
+}
+
+.appColBackground {
+
+    background-color: #ccfccb;
+}
+
+.itemBorder {
+    border: solid gray 2px;
+}
+
+
+.checkboxTrue {
+    background-color: #464e47;
+    padding: 10px;
+    border-radius: 100%;
+    color: azure;
+}
+
+.checkboxFalse {
+    background-color: red;
+    padding: 10px;
+    border-radius: 100%;
+    color: rgb(240, 242, 255);
+}
