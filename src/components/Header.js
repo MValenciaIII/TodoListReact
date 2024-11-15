@@ -11,8 +11,8 @@ function Header(props) {
         <div className="row text-center">
             <div className="col-12">
                 <h1>Mike's To Do List</h1>
-            </div>
             <button onClick={switchView}>Switch</button>
+            </div>
         </div>
     )
 }
